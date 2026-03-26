@@ -208,9 +208,10 @@ $result = $db->query("SELECT 1")->fetch();
 ## 📚 Documentation
 
 ### Setup Guides
-- **[PHP Error Setup Guide](PHP-Error-Setup-Guide.md)** - Configure Windsurf for PHP error detection
-- **[Complete Setup Journey](Complete-Setup-Journey.md)** - Detailed step-by-step setup process
-- **[Quick Setup Instructions](setup-instructions.md)** - Fast configuration reference
+- **[PHP Error Setup Guide](docs/PHP-Error-Setup-Guide.md)** - Configure Windsurf for PHP error detection
+- **[Complete Setup Journey](docs/Complete-Setup-Journey.md)** - Detailed step-by-step setup process
+- **[Quick Setup Instructions](docs/setup-instructions.md)** - Fast configuration reference
+- **[XAMPP Configuration Guide](docs/XAMPP-Configuration.md)** - Required Apache and PHP server configuration
 
 ### Development Documentation
 - **[Project Structure Guide](project-structure.md)** - Architecture overview
