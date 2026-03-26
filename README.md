@@ -20,7 +20,7 @@ A complete, professional PHP development environment with Bootstrap 5, MySQL, an
 
 ---
 
-## 📋 Technology Stack
+##  Technology Stack
 
 | Component | Version | Status | Description |
 |-----------|---------|--------|-------------|
@@ -42,7 +42,7 @@ c:\Projects\php\
 │   ├── .htaccess          #  Apache URL rewriting
 │   └── assets/            #  Static assets
 │       ├── css/
-│       │   └── custom.css   # 🎨 Custom styling
+│       │   └── custom.css   #  Custom styling
 │       ├── js/
 │       │   └── main.js      #  JavaScript functionality
 │       └── images/          #  Image assets
